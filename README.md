@@ -7,6 +7,6 @@ Speech Recognition in python to get started
  Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
  
   ### Usage
-  Run `Sp2tx.py` and change your preferences accordingly.
+  Run `Sp2tx-google.py` and change your preferences accordingly.
   
 ## 2. Working on it
