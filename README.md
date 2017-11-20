@@ -9,3 +9,5 @@ Speech Recognition in python to get started
   ### Usage
   Run `Sp2tx-google.py` and change your preferences accordingly.
   
+## 2. cmu_sphinx4
+  
